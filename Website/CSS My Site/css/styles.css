@@ -1,0 +1,131 @@
+/*********************below are CSS for body************************/
+
+body{
+  background-color: #BAE8E8;
+  text-align: center;
+  margin: 0px;
+}
+
+.Mayank{
+    color: #92A9BD;
+    margin: 0;
+    font-family: 'The Nautigal', cursive;
+    font-size: 40px;
+    font-size: 100px;
+}
+
+
+/*********************below are CSS for container************************/
+
+.topcontainer{
+  background color: powderblue;
+  height:800px;
+  width: 1263px;
+}
+
+.middle-container{
+  text-align: center;
+
+  height: 650px;
+  width: 1263px;
+}
+
+.bottom-container{
+  text-align: center;
+
+  height: 400px;
+  width: 1263px;
+}
+
+
+/*********************below are CSS for different content************************/
+
+.top-cloud{
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 420px;
+  right: 400px;
+}
+
+.cld1{
+  position: absolute;
+  left: 450px;
+  top130px;
+}
+
+.mnt{
+  position: relative;
+  top: 50px;
+
+}
+
+
+
+/*********************************Rest All***************************************/
+.des{
+  font-size: 1.5rem ;
+  font-weight: bolder;;                /*1rem= 16px */
+}
+
+.skill-row{
+  font-family: cursive;
+  width: 50%;
+}
+
+.footer-link{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+.handle{
+  font-family: 'The Nautigal', cursive;
+  font-size: 50px;
+  color: #11999E;
+  margin: 0 auto 0 auto;
+}
+
+.des{
+  font-family:'Lobster', cursive;
+  color: #8B9A46;
+}
+
+.contact-me{
+  font-family: 'Lobster', cursive;
+}
+
+.table{
+  display: inline-block;
+}
+
+.hr{
+  border-top: 5px;
+  border-color:  #325288;
+}
+
+.m1{
+  font-family: 'Lobster', cursive;
+  color: #66BFBF;
+  font-size: 40px;
+  color: #11999E;
+  margin: 0 auto 0 auto;
+}
+
+.hello{
+  font-family: 'Moon Dance', cursive;
+  color: #11999E;
+  font-size: 35px;
+  margin: 0 auto 0 auto;
+}
+
+.f{
+  color: red;
+}
+
+.profile{
+  width: 50%;
+}
